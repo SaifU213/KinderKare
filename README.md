@@ -1,5 +1,3 @@
-# KinderKare
-
 # What is it?
 KinderKare is a daycare management web application designed for daycare owners, staff and parents to manage day to day tasks and assignments of a daycare.
 
